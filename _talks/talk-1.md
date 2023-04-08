@@ -1,7 +1,7 @@
 ---
 title: "Forecasting Football Match Result with GAP Rating and Player Rating"
-collection: talk
-type: "talk"
+collection: talks
+type: "Talk"
 permalink: /talks/talk-1
 venue: "MathSport International Conference 2022"
 date: 2022-07
