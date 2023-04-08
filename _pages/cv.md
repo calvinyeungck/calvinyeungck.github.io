@@ -11,9 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+*2022-2025, Doctoral Program (Final Three-year Program), Department of Intelligent Systems, Graduate School of Informatics, Nagoya University
+  *Behavior Signal Processing Laboratory (Takeda Lab), Sports Behavior Group
+  *THERS Interdisciplinary Frontier Next Generation Researcher
+*2021-2022, Master of Science (MSc) in Risk Management Science and Data Analytics, The Chinese University of Hong Kong
+  *Academic Excellence Award 2022
+*2021-2018, Bachelor of Science (BSc) (Hons) in Mathematics and Statistics, Hong Kong Baptist University 
+  *Concentration in Financial Risk Management 
+  *Science Faculty Board Student Representative 
+  *Mathematics Department Peer-Tutor 
+*2018-2016, Associate's degree in Business Administration, Hong Kong Baptist University
+
 
 Work experience
 ======
