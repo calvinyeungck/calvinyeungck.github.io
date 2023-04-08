@@ -184,9 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  presentation:
+  presentations:
     output: true
-    permalink: /:collection/:path/
+    permalink: /presentations/:title/
 
 
 # Defaults
