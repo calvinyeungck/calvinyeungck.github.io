@@ -186,8 +186,7 @@ collections:
     permalink: /:collection/:path/
   presentations:
     output: true
-    permalink: /presentations/:title/
-
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
