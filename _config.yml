@@ -115,7 +115,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  lab              : "https://takedalab.g.sp.m.is.nagoya-u.ac.jp/groups/sports-behavior-group"
+#   lab              : "https://takedalab.g.sp.m.is.nagoya-u.ac.jp/groups/sports-behavior-group"
+
 
 # Reading Files
 include:
