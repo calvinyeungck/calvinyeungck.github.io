@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD student at Nagoya University, Research focuses on developing and applying machine learning models to sports."
   location         : "Nagoya, Japan"
-  employer         : "https://takedalab.g.sp.m.is.nagoya-u.ac.jp/groups/sports-behavior-group"
+  employer         : 
   linkedin         : "https://www.linkedin.com/in/calvinckyeung/"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LVo-eYkAAAAJ&hl"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  lab              : "https://takedalab.g.sp.m.is.nagoya-u.ac.jp/groups/sports-behavior-group"
 
 # Reading Files
 include:
