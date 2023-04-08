@@ -8,7 +8,7 @@ venue: 'Journal 1'
 paperurl: 'https://arxiv.org/abs/2302.09276'
 citation: 'Yeung, C., Sit, T., & Fujii, K. (2023). Transformer-Based Neural Marked Spatio Temporal Point Process Model for Football Match Events Analysis. arXiv preprint arXiv:2302.09276.'
 ---
-<!-- This paper is about the number 2. The number 3 is left for future work. -->
+Submitted to ECML-PKDD 2023
 
 [Download paper here](https://arxiv.org/abs/2302.09276)
 
