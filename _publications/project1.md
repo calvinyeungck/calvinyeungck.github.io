@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2023-04-10
-venue: 'Journal 1'
+venue: 'PLoS One'
 paperurl: ''
 citation: 'Yeung, C., Bunker, R., & Fujii, K. (2023). A framework of interpretable match results prediction in football with FIFA ratings and team formation. Plos One, Accepted.'
 ---
