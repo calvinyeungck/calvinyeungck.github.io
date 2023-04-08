@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk-1
 venue: "MathSport International Conference 2022"
-date: 2022-07
+date: 2022-07-12
 location: "UK"
 ---
 
