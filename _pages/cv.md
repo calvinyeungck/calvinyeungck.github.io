@@ -33,8 +33,8 @@ Education
 
 Work experience
 ======
-* Summer 2018: Summer Professional Attachment Programme
-  * Census and Statistics Department, Hong Kong S.A.R.
+Summer 2018: Summer Professional Attachment Programme
+* Census and Statistics Department, Hong Kong S.A.R.
   
 Skills
 ======
