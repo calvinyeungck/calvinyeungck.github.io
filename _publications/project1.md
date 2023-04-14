@@ -12,4 +12,6 @@ While forecasting football match results has long been a popular topic, a practi
 
 [Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://doi.org/10.1371/journal.pone.0284318))
 
-Recommended citation: Yeung, C., Bunker, R., & Fujii, K. (2023). A framework of interpretable match results prediction in football with FIFA ratings and team formation. PLoS ONE 18(4): e0284318. https://doi.org/10.1371/journal.pone.0284318.
+[Code Repository](https://github.com/calvinyeungck/Football-Match-Result-Forecast)
+
+<!-- Recommended citation: Yeung, C., Bunker, R., & Fujii, K. (2023). A framework of interpretable match results prediction in football with FIFA ratings and team formation. PLoS ONE 18(4): e0284318. https://doi.org/10.1371/journal.pone.0284318. -->
