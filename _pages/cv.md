@@ -21,13 +21,13 @@ Education
 * The Chinese University of Hong Kong, Hong Kong S.A.R.
   * Academic Excellence Award 2022
   
-2021-2018, Bachelor of Science (BSc) (Hons) in Mathematics and Statistics
+2018-2021, Bachelor of Science (BSc) (Hons) in Mathematics and Statistics
 * Hong Kong Baptist University, Hong Kong S.A.R.
   * Concentration in Financial Risk Management 
   * Science Faculty Board Student Representative 
   * Mathematics Department Peer-Tutor 
   
-2018-2016, Associate's degree in Business Administration
+2016-2018, Associate's degree in Business Administration
 * Hong Kong Baptist University, Hong Kong S.A.R.
 
 
