@@ -15,7 +15,7 @@ Education
 2022-2025, Doctoral Program (Final Three-year Program), Department of Intelligent Systems [[link]](https://www.i.nagoya-u.ac.jp/en/gs/is/#)
 * Graduate School of Informatics, Nagoya University, Japan
   * Behavior Signal Processing Laboratory (Takeda Lab), Sports Behavior Group
-  * THERS Interdisciplinary Frontier Next Generation Researcher
+  * THERS Interdisciplinary Frontier Next Generation Researcher - Outstanding Researcher
   
 2021-2022, Master of Science (MSc) in Risk Management Science and Data Analytics [[link]](https://www.i.nagoya-u.ac.jp/en/gs/is/#)
 * The Chinese University of Hong Kong, Hong Kong S.A.R.
