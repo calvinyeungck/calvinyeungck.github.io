@@ -2,7 +2,6 @@
 title: "Transformer-Based Neural Marked Spatio Temporal Point Process Model for Football Match Events Analysis"
 collection: publications
 permalink: /publication/project2
-excerpt: 'Submitted to ECML-PKDD 2023'
 date: 2023-02-18
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2302.09276'
